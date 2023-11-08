@@ -1,0 +1,25 @@
+
+1/How does the Web work?
+
+the web work us follow :
+client or devices use web broser such google chrome to access into the web and they type URL adress of the website 
+Once the browser send request to the Server of website , the server examine the request and send back a response
+which could be a web page or documents or another types of files .
+the web use hypertext transfer protocol HTTP transmission control protocol TCP to ensure that clinets and servers
+can communicate .
+
+
+2/What do you need to be a web developer?
+
+a Web developer need to master 3 essetil technical skills : HTML , CSS ,Javascript 
+and next he can provide 
+Client front-end
+Server back-end
+ Database 
+
+
+3/ Why did you choose to learn web development?
+
+Concerning my choice to the web development , 
+to be In the Train of technologies and enrich my skills so that i can do my own business .
+ 
